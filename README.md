@@ -8,7 +8,7 @@
 <br>
 <div align="center">
 <p><b><center>
-  I'm Sabri Hakan Demirbaş. I am a data science enthusiast, self-developing in this field, talking a lot and loving to do sports. Skilled in data visualization, data, science, machine learning, and deep learning. My creative and innovative approach helps me provide data-driven solutions. I love examining data on maps and statistical graphics created.
+  I'm Sabri Hakan Demirbaş. I am a data science enthusiast, self-developing in this field, talking a lot and loving to do sports. Skilled in data visualization, data science, machine learning, and deep learning. My creative and innovative approach helps me provide data-driven solutions. I love examining data on maps and statistical graphics created.
   <br><br>
   
   📫 Connect/Contact with me:
